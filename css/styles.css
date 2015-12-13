@@ -1,0 +1,73 @@
+/*#spotify_image {
+	margin-top: 50px;
+}*/
+
+#search_user_name {
+	width:150px;
+	margin-left:20px;
+}
+
+#search_tag {
+	width:150px;
+	margin-left:20px;
+}
+
+#search_address_1 {
+	width:150px;
+	margin-left:20px;
+}
+
+#search_address_2 {
+	width:150px;
+	margin-left:20px;
+}
+
+#search_address_city {
+	width:150px;
+	margin-left:20px;
+}
+
+#search_address_state {
+	width:150px;
+	margin-left:20px;
+}
+
+.form-control {
+	margin-top: 5px;
+}
+
+.btn-secondary {
+	margin-top: 5px;
+}
+
+#side_bar2{
+	margin-top:20px;
+}
+#side_bar {
+	margin-top:10px;
+	float: top;
+}
+
+#menu-toggle {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#button_group {
+	margin-top: 20px;
+}
+#the-footer {
+    margin-top:30px;
+    margin-bottom:20px;
+    margin-left:auto;
+    margin-right:auto;
+    width:400px;
+    text-align:center;
+}
+
+#edit_group_btn {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left:auto;
+    margin-right:auto;
+}
